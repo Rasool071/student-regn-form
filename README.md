@@ -15,3 +15,5 @@ This is a simple web-based **Student Registration Form** built using **HTML**, *
 - HTML5
 - CSS3
 - JavaScript
+
+  Link : https://rasool071.github.io/student-regn-form/
